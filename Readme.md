@@ -1,0 +1,1 @@
+Este trabalho consiste na realização de uma simulação no Scilab e em Python do modelo matemático de reator CSTR apresentado no artigo “EXOTHERMIC CSTRs Just How Stable Are The Multiple Steady States?”, de 1994, da Universidade Ben-Gurion do Neguev.
